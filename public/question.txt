@@ -48,15 +48,15 @@ Please solve the following problem, please don't copy and paste any solution!
 42- Write a js program to sort even and odd elements of array separately.
 43- Write a js program to left rotate an array.
 44- Write a js program to right rotate an array.
-43- Write a js program to find sum of all natural numbers between 1 to n.
-44- Write a js program to find sum of all even numbers between 1 to n.
-45- Write a js program to find sum of all odd numbers between 1 to n.
-46- Write a js program to print multiplication table of any number.
-47- Write a js program to count number of digits in a number.
-48- Write a js program to find first and last digit of a number.
-49- Write a js program to find sum of first and last digit of a number.
-50. Write a js program to swap first and last digits of a number.
-51. Write a js program to calculate sum of digits of a number.
-52. Write a js program to calculate product of digits of a number.
+45- Write a js program to find sum of all natural numbers between 1 to n.
+46- Write a js program to find sum of all even numbers between 1 to n.
+47- Write a js program to find sum of all odd numbers between 1 to n.
+48- Write a js program to print multiplication table of any number.
+49- Write a js program to count number of digits in a number.
+50- Write a js program to find first and last digit of a number.
+51- Write a js program to find sum of first and last digit of a number.
+52. Write a js program to swap first and last digits of a number.
+53. Write a js program to calculate sum of digits of a number.
+54. Write a js program to calculate product of digits of a number.
 Happy Coding!
 Naveed
